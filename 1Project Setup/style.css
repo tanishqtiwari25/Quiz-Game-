@@ -108,3 +108,17 @@ body {
     }
     
   }
+
+  @media only screeen and(min-width:398px)
+  {
+    .header{
+      font-size: 280;
+    }
+    .qu{
+      height: 12%;
+      width: 10%;
+    }
+    .op{
+      width: 70vw;
+    }
+  }
